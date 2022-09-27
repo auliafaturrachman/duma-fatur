@@ -7,7 +7,6 @@ import Main from "./Main"
 const PageContainer = () => {
   return (
     <>
-      <Announcement/>
       <Header/>
       <Main/>
       <Footer/>
